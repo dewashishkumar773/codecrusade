@@ -1,0 +1,31 @@
+# code to know types
+'''
+name=("dewashish")
+print(type(name))
+number=56
+print(type(number))
+x=156.65
+print(type(x))
+a= 10
+b=20
+print(type(a>b))
+print(type(a))
+'''
+''' 
+x=10
+fruit="apple"
+isChild=True
+print(type(x))
+print(type(fruit))
+print(type(isChild))
+'''
+'''x=10
+y=15
+number=(y>x)
+print(number)
+print(type(number))
+'''
+age="45"
+int_x=int(age)
+print(int_x)
+print(type(int_x))
